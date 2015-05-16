@@ -1,1 +1,2 @@
-web: gunicorn Main.wsgi --log-file -
+web: gunicorn Main.app --log-file -
+worker: python GoogleDirections.py
