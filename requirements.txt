@@ -1,6 +1,5 @@
 Flask==0.10.1
 gunicorn==19.3.0
-googlemaps==2.2
 itsdangerous==0.24
 Jinja2==2.7.3
 MarkupSafe==0.23
@@ -8,3 +7,4 @@ Werkzeug==0.10.4
 twilio==4.2.0
 GoogleMapsApi==0.02
 twilio-api==0.1.1
+googlemaps==2.2
